@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-harrisburg",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Harrisburg GIS — Harrisburg, Pennsylvania open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6319128dbaf13c69fc243623a275d9b58cd6be8c322b5be9935186615521e05c",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-07ebbd6136bfefcce49a29a624fb596deaf959b45b1569a9484d70a835549fe0",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
